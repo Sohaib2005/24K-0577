@@ -1,7 +1,7 @@
 #include<stdio.h>
 void main()
 {
-int num,sum;
+int num,sum=0;
    do
     {
    
