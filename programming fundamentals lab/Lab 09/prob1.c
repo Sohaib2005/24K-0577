@@ -10,6 +10,6 @@ int main() {
     scanf("%d",&n1);
     printf("\nEnter number 2 :");
     scanf("%d",&n2);
-    printf("Product of %d and '%d is : %d",product(n1,n2));
+    printf("Product of %d and %d is : %d",n1,n1,product(n1,n2));
     return 0;
 }
