@@ -171,7 +171,6 @@ void delete_record() {
 
 
 
-// suppose that you have to store data for 5 players with at least 3 bowlers. The rest will be N/A.
 void create_record();
 void read_records();
 void update_record();
